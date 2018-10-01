@@ -65,10 +65,10 @@ def add_numbers():
     num2=input("enter a second number")
     num3=int(num1)+int(num2)
     return num3
-#print("the sum of your numbers is: ",num4)
-#num4=add_numbers() #num4=num3
-#print(num4)
-#add_numbers()
+print("the sum of your numbers is: ",num4)
+num4=add_numbers() #num4=num3
+print(num4)
+add_numbers()
 
 def add_numbers(X,Y):
     num1=X
