@@ -62,7 +62,7 @@ def menu():
 def main():
 
     password, username, got_in= menu()
-    menu()
+    
 
     if got_in==True:
         print("You got in!")
