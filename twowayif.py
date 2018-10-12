@@ -21,3 +21,9 @@ if num1<=num2:
         print("equal")
     else:
         print("not equal")
+        if num1<num2:
+            print("less than")
+        else:
+            if num1>=num2
+                print("greater than")
+print("done")
